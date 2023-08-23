@@ -2,3 +2,6 @@
 ### About Me 🧑
 
 Hi there 👋 Welcome to my Github profile, my name is Nika Kudukhashvili (Kuduxaaa). I am a **Cyber Security Specialist**, **Software Engineer**, **Fullstack Web Developer**, **Python developer** and **Android developer** from Georgia 🇬🇪 
+
+#ვყიდიქვებს
+#მემიყვარსროკი
